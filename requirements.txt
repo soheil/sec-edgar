@@ -1,6 +1,5 @@
 beautifulsoup4
-aiohttp
-async_timeout>=3.0
+aiohttp < 4.0.0
 urllib3
 requests
 lxml
